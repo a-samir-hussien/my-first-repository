@@ -1,2 +1,2 @@
 # README #
-thank u
+This is my first GitHub Repository!
