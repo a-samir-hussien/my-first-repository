@@ -1,2 +1,2 @@
 # README #
-#thank u#
+thank u
